@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkk"
+    android:orientation="vertical"
+    android:scrollbarThumbHorizontal="@color/whiteish"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/textViewTh"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:background="@color/darkk"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="@string/secondHeader"
+        android:textAlignment="center"
+        android:textColor="@color/whiteish"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnerCategory"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:layout_margin="16dp"
+        android:dropDownSelector="@color/whiteish"
+        android:popupBackground="@color/darkBlue" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewRec"
+        android:layout_width="match_parent"
+        android:layout_height="529dp"
+        android:background="@color/darkk" />
+
+</LinearLayout>

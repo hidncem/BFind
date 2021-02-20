@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/dialogConstLayout"
+    android:layout_width="match_parent"
+    android:layout_height="650dp"
+    android:background="@color/darkk"
+    android:orientation="vertical">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="119dp"
+        android:layout_height="121dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="90dp" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="285dp"
+        android:layout_height="55dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="TextView"
+        android:textColor="@color/whiteish" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="348dp"
+        android:layout_height="218dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="TextView"
+        android:textColor="@color/whiteish" />
+
+    <Button
+        android:id="@+id/addFavList"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_margin="30dp"
+        android:background="@drawable/buttonstyle"
+        android:fontFamily="@font/montserrat"
+        android:gravity="center"
+        android:text="Favorilere Ekle" />
+
+</LinearLayout>

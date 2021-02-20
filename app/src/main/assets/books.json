@@ -1,0 +1,355 @@
+{ 
+    "books": [
+		{
+			"name": "Sineklerin Tanrısı",
+			"author": "William Golding",
+			"detail": "Dünya klasikleri arasında gösterilen “Sineklerin Tanrısı”, William Golding’in en önemli eserleri arasında gösteriliyor. Nobel edebiyat ödülü almasıyla ise tüm dünyada büyük üne kavuşan eser, ıssız ada yaşamını bambaşka bir yönden ele alıyor. Karakter analizlerine ve davranışlara odaklanan kitap, saf ve temiz çocukların bile aslında ne kadar vahşileşebileceklerini gözler önüne seriyor. Okuyucuları, davranışlar üzerinde düşünmeye iten bu kitapla siz de hayatta kalma mücaledesine giren çocukların derinden etkileyen hikayesiyle baş başa kalacaksınız.",
+			"category":"Roman",
+			"imgName":"0000000107800-1.jpg"
+		},
+		{
+			"name": "Körlük",
+			"author": "José Saramago",
+			"detail": "Distopik eserlere ilgi duyanların elinden düşürmediği Körlük, yayınlandığı günden bu yana adından söz ettirmeye devam ediyor. Portekiz’li yazar José Saramago’ya 1998’de Nobel Edebiyat Ödülü’nü kazandıran eser, konusuyla olduğu kadar zekice kurgulanmış karakterleriyle de dikkat çekiyor.",
+			"category":"Roman",
+			"imgName":"0001704045001-1.jpg"
+		},
+		{
+			"name": "Fareler ve İnsanlar",
+			"author": "John Steinbeck",
+			"detail": "Nobel ödüllü yazar John Steinbeck’in ilk kez 1937 yılında yayınlanan eseri; çiftlikten çiftliğe dolaşarak çalışan iki yakın arkadaşın başından geçen maceraları ve onların hayallerine sıkı sıkıya olan bağlılığını konu ediniyor. Kendisi de bir dönem gezici çiftlik işçiliği yapmış olan John Steinback’in hayatından da izler taşıyan roman, realist yaklaşımı ile dikkat çekiyor. Gerçeğe yakın bir dil ile kurgulanan eser, oldukça sürükleyici ve etkileyici anlatımı ile günümüzde hala en çok okunan kitaplar arasında bulunuyor.",
+			"category":"Bilim Kurgu",
+			"imgName":"0000000411500-1.jpg"
+		},
+		{
+			"name": "Bilinçaltının Gücü",
+			"author": "Joseph Murphy",
+			"detail": "Bilinçaltının sadece rüyaları değil, tüm yaşamı etkilediğini siz daha önce düşünmüş müydünüz?",
+			"category":"Kişisel Gelişim",
+			"imgName":"0001831154001-1.jpg"
+		},
+		{
+			"name": "Bülbülü Öldürmek",
+			"author": "Harper Lee",
+			"detail": "Tüm zamanların en sevilen hikâyelerinden biri olan, kırktan fazla dile çevrilen, Oscar ödüllü bir sinema filmi için temel oluşturan ve yirminci yüzyılın en iyi romanlardan biri seçilen Pulitzer ödüllü Bülbülü Öldürmek, Amerika’nın acımasız bir önyargı ile zehirlenmiş güneyinde geçen, sürükleyici, yürek burkan ve dikkat çekici bir büyüme hikâyesi. Büyüleyici güzellikler ve vahşi eşitsizlikler dünyasında haksız yere korkunç bir suçla suçlanan bir “zenci”yi savunmak için her şeyi riske atan bir adamın hikâyesi çocuk kahramanın gözünden anlatılıyor.",
+			"category":"Roman",
+			"imgName":"0001863920001-1.jpg"
+		},
+		{
+			"name": "İyinin ve Kötünün Ötesinde",
+			"author": "Friedrich Nietzsche",
+			"detail": "Friedrich Wilhelm Nietzsche (1844-1900): Geleneksel din, ahlak ve felsefe anlayışlarını kendine özgü yoğun ve çarpıcı bir dille eleştiren en etkili çağdaş felsefecilerdendir.",
+			"category":"Felsefe",
+			"imgName":"0000000696777-1.jpg"
+		},
+		{
+			"name": "Hayvan Çiftliği",
+			"author": "George Orwell",
+			"detail": "Distopik romanlarıyla ünlenen İngiliz Yazar George Orwell tarafından 1945 yılında yayımlanan Hayvan Çiftliği adlı roman, masalsı atmosferinin altında derin bir sistem eleştirisi barındırıyor. Fabl türünde kaleme alınan eser, yazarın 1984 adlı romanıyla birlikte en geniş kitlelere ulaşan yapıtları arasında yer alıyor. Ön yüzünde bir çiftlik ve içinde yaşayan hayvanları konu edinen roman; devletleri, yönetim biçimlerini ve toplumları sembolik olduğu kadar sade bir anlatımla ele alıyor.",
+			"category":"Bilim Kurgu",
+			"imgName":"0000000105409-1.jpg"
+		},
+		{
+			"name": "Dahice Hatalar",
+			"author": "Mario Livio",
+			"detail": "Herkes Hata Yapar! Tarihe Damgasını Vurmuş En Büyük Dâhiler Bile!",
+			"category":"Bilim",
+			"imgName":"0001896312001-1.jpg"
+		},
+		{
+			"name": "Kızıl Nehirler",
+			"author": "Jean-Christophe Grange",
+			"detail": "Biz Efendileriz, Biz Köleleriz. Biz Her Yerdeyiz, Hem de Hiçbir Yerde. Biz Karar Verenleriz. Kızıl Nehirlerin Hakimiyiz. Kalbinize güvenmiyorsanız ya da ocakta yemeğini varsa, bu kitabı okumaya başlamayın. grange'nin sınır tanımayan hayal gücü, sürekli artan gerilim, etkileyici karakterler, birbirinden korkunç cinayetler; hepsi daha ilk satırlardan itibaren size hükmedecek... \"Kızıl Nehirler\" sadece Fransa'da 450 000 sattı ve 20 dile çevrildi. Soluk kesen bir tempo. İnsanı hemen saran bir hikaye. Çok gerçekçi şiddet sahneleri. İki sıradışı insanın çevresinde gelişen olaylar: biri enerji dolu, tecrübeli bir polis, diğeri sokaklardan gelme Mağripli bir çaylak... \"İnsanı daha ilk sayyfalardan itibaren sarsan, altüst eden, yutan o kitaplardan biri. Sizi sürekli olarak gerilimin sınırlarında dolaştıracak; akkor hal,ine gelmiş bir telin üzerinde yürüyormuş hissi verecek kusursuz bir thriller.\" Le Monde \"James Ellroy ve Thomas Harris etkisinde bir seri cinayet hikayesi.\" Le Nouvel Observateur",
+			"category":"Polisiye/Cinayet",
+			"imgName":"0000000104321-1.jpg"
+		},
+		{
+			"name": "Zamanın Kısa Tarihi",
+			"author": "Stephen Hawking",
+			"detail": "Kitap o dönemde evrenin doğası hakkında öğrendiğimiz en son bilgiler göz önüne alınarak yazılmıştı, öte yandan o günden bu güne hem atom-altı dünyanın hem de büyük ölçekte evrenin gözlem teknolojilerinde olağanüstü ilerlemeler yaşandı. Bu yeni gözlemler Profesör Hawking’in kitabın ilk baskısında yaptığı kuramsal öngörülerin çoğunu doğrulayan nitelikteydi. Bu gözlemlere, evrenin başlangıcından 300.000 yıl sonrasını araştıran ve Hawking’in varlığını ileri sürdüğü uzayzaman dokusundaki kırışıklıkları tespit eden Kozmik Ardalan Kâşifi COBE uydusunun son bulguları da dahildir.",
+			"category":"Bilim",
+			"imgName":"0000000562120-1.jpg"
+		},
+		{
+			"name": "Uçurtma Avcısı",
+			"author": "Khaled Hosseini",
+			"detail": "Konusu arkadaşlık üzerine kurulmuş olan Uçurtma Avcısı, insanlığa ait ortak duygularla tüm dünyayı kucaklıyor. Eserinde dostluk bağlarının yanı sıra baba sevgisi, fedakarlık, yalan ve ihanet gibi konuları da ustalıkla işleyen yazar, okurlarını ülkeler ve zamanlar arası bir yolculuğa çıkarıyor. Uçurtma Avcısı, sahip olduğu evrensel tema ve erdem dolu mesajı ile ömür boyu unutulmayacak bir ders niteliği taşıyor.",
+			"category":"Roman",
+			"imgName":"0000000153127-1.jpg"
+		},
+		{
+			"name": "Beyin Senin Hikayen",
+			"author": "David Eagleman",
+			"detail": "Durak durak ilerleyen bu büyüleyici yolculuk ekstrem sporlar dünyasından ceza hukukuna, yüz ifademizden beyin ameliyatlarına, içgüdülerden ölümsüzlük arayışına kadar uzanıyor. Yol üstünde, muazzam karmaşıklık barındıran beyin hücreleri ve onları birbirine bağlayan trilyonlarca sinirin arasında görmeyi pek de beklemediğiniz bir şey beliriyor: kendiniz.",
+			"category":"Bilim",
+			"imgName":"0000000693729-1.jpg"
+		},
+		{
+			"name": "Leyleklerin Uçuşu",
+			"author": "Jean-Christophe Grange",
+			"detail": "Göçmen kuşlardır Leylekler. Her bahar Avrupa'ya gelir, yaz sonunda tekrar Afrikaya doğru yola çıkarlar. Ama bu yıl geri dönmeyecekler... Louis Antioche'un kayıp leyleklerin sırrını çözmek için çıktığı yolculuk kısa sürede kabusa dönüşür. Parçalanmış cesetler, nereden çıktığı belli olmayan katiller... Arayışı onu, Bulgaristan'daki Çingene mahallelerinden işgal altındaki toprakların güneşte kavrulan kibutzlarına, Orta Afrika Cumhuriyeti'nin balta girmemiş ormanlarından Kalküta'nın arka sokaklarına kadar götürecektir. Hatta cehenneme kadar...",
+			"category":"Polisiye/Cinayet",
+			"imgName":"0000000116356-1.jpg"
+		},
+		{
+			"name": "Incognito - Beynin Gizli Hayatı",
+			"author": "David Eagleman",
+			"detail": "Siz daha tehlikeyi algılamadan, ayağınızı fren pedalının üstüne götüren kim? Neden sır saklamakta böylesine başarısız, nedenini bilmeden birini çekici bulmakta bu kadar başarılıyız? Eğer bilinçli zihin, yani sabah uyandığınızda sizinle birlikte uyanan ben, buzdağının yalnızca görünen kısmıysa, zihninizin geri kalanı tüm bir ömür neyle iştigal etmekte?",
+			"category":"Bilim",
+			"imgName":"0000000440847-1.jpg"
+		},
+		{
+			"name": "Türlerin Kökeni",
+			"author": "Charles Darwin",
+			"detail": "İlk basımı 1859’da Londra’da yayımlanan Türlerin Kökeni, dünyamızın bilim ve kültür tarihini değiştiren kitapların başında gelir. Darwin’in 20 yıllık araştırması sonucu ortaya çıkan ve evrimin mekanizmalarını açıklayan Türlerin Kökeni sadece biyoloji bilimlerinin değil, aynı zamanda tüm doğa bilimlerine ve edebiyattan felsefeye tüm insanlık kültürüne yeni bir bakış kazandırarak, insanın dünyayı anlama macerasında bir dönüm noktası oldu. ",
+			"category":"Bilim",
+			"imgName":"0001719848001-1.jpg"
+		},
+		{
+			"name": "Cesur Yeni Dünyaü",
+			"author": " Aldous Huxley",
+			"detail": "Cesur Yeni Dünya romanındaki olaylar, 26’ncı yüzyıl İngiltere’sinde geçiyor. Ancak eserdeki zaman “Ford’dan sonra 632 yılı” olarak adlandırılıyor. Bu bağlamda Henry Ford’un üretim bandını icat etmesi, dönemin insanları tarafından yeni bir milat olarak kabul görüyor. Eserde anlatılan dünya düzeninde “maddiyat ve tüketim” yüceltilirken, “insan” bu düzende sadece bir ürün olarak yer buluyor. Romanda, tıpkı Avrupa tarihindeki Dokuz Yıl Savaşı gibi bir savaş dönemi oluyor. Sonrasında yaşanan ekonomik darboğazdan sonra ise Cesur Yeni Dünya olarak adlandırılan bir düzen kuruluyor. Bu düzende insan ırkının devamı da üretim bantları ile sağlanıyor. Hastalıklar, savaşlar ve fakirlik gibi zorluklar böylece ortadan kaldırılıyor. ",
+			"category":"Bilim Kurgu",
+			"imgName":"0000000066424-1.jpg"
+		},
+		{
+			"name": "Son Nöbet",
+			"author": "Stephen King",
+			"detail": "“Mercedes Katili” geri döndü. Bu kez düşmanlarını intihara sürükleyip intikam almayı planlıyor. Bill Hodges ve Holly Gibney, Brady Hartsfield’i durdurmanın bir yolunu bulmak zorundalar, yoksa kendileri de onun kurbanı olacaklar. Stephen King, Bay Mercedes ve Kim Bulduysa Onundur ile süren Bill Hodges üçlemesini dehşet verici bir macerayla sonlandırıyor.",
+			"category":"Gerilim/Korku",
+			"imgName":"0001698818001-1.jpg"
+		},
+		{
+			"name": "Ben Kirke",
+			"author": "Madeline Miller",
+			"detail": "Ben, Helios’un kızı, Aiaie Cadısı Kirke. Hayatım boyunca trajedinin beni bulmasını bekledim. Bulacağından hiç kuşkum yoktu çünkü başkalarının hak ettiğimi düşündüğünden daha fazla arzum, isyanım ve gücüm vardı, yıldırımları üstüne çekecek şeylerdi bunlar. Ve bir gün, artık bu dünyaya dayanamayacağım, diye düşündüm.",
+			"category":"Roman",
+			"imgName":"0001836978001-1.jpg"
+		},
+		{
+			"name": "Metamorfoz İnsan Vücudunda Değişimin Öyküsü",
+			"author": "Gavin Francis",
+			"detail": "Büyük övgü toplayan kitabı Metamorfoz’da Gavin Francis, hekimlik hayatında bizzat karşılaştığı vakaları, tıp tarihinden, sanattan, edebiyattan ve mitolojiden öykülerle bir araya getirerek, neden insan olmanın özünde değişimin yattığını anlatıyor. Francis’in ellerinde her vaka, kimlik ve tabiatlarımızın biyolojik, psikolojik ve felsefi anlamda keşfi için birer fırsata dönüşüyor.",
+			"category":"Bilim",
+			"imgName":"0001886952001-1.jpg"
+		},
+		{
+			"name": "Otomatik Portakal",
+			"author": "Anthony Burgess",
+			"detail": "“Tüm hayvanların en zekisi, iyiliğin ne demek olduğunu bilen insanoğluna bir baskı yöntemi uygulayarak onu otomatik işleyen bir makine haline getirenlere kılıç kadar keskin olan kalemimle saldırmaktan başka hiçbir şey yapamıyorum…” Karabasan gibi bir gelecek atmosferi… Geceleyin sokakları terörize eden, yaşamları şiddet üzerine kurulu gençler ve bu hikâyenin anti-kahramanı Alex... Yayımlandığı günden bu yana “kült roman” özelliğini kaybetmeyen Otomatik Portakal’ın 15 yaşındaki kahramanı, “iyi ya da kötü nedir?”, “İnsan özgür iradesiyle kaderini seçebilir mi?”",
+			"category":"Roman",
+			"imgName":"0001806049001-1.jpg"
+		},
+		{
+			"name": "İkiz Bedenler",
+			"author": "Tess Gerritsen",
+			"detail": "Adli tabip Maura Isles’ın evinin önünde bulunan ceset, dedektif Jane Rizzoli dahil herkesi hayrete düşürür. Bir kurşunla öldürülen kadın, Maura’ya müthiş benzemektedir. DNA testi şaşırtıcı gerçeği doğrular: Ölen kadın gerçekten de Maura’nın ikiz kardeşidir. Bu tuhaf cinayet, geçmişin karanlık sırlarını açığa çıkaracak rahatsız edici bir soruşturmayı başlatır. Maura şoke edici gerçekleri hazmetmeye çalışırken hiç tanımadığı annesine, ona hayat veren buz gibi, korkutucu bir kadına ulaşır. Verdiği hayatı geri alabilecek bir kadına…",
+			"category":"Polisiye/Cinayet",
+			"imgName":"0001766200001-1.jpg"
+		},
+		{
+			"name": "Günahkar",
+			"author": "Tess Gerritsen",
+			"detail": "Graystones Manastırı’nın dış dünyaya kapalı duvarları arasında bir felaket yaşanır. Genç rahibe Camille öldürülmüş, rahibe Ursula ise ağır yaralanmıştır. Manastırda yaşayan iki rahibenin neden öldüresiye dövüldüğü anlaşılamadığı gibi, katilin içeriye nasıl girdiği de bilinmez. Adli tabip Maura Isles’ın yaptığı otopside, genç rahibe hakkında sürpriz bir bilgi ortaya çıkar. Bu arada soruşturmanın gidişatını değiştiren bir gelişme olur ve bir başka kadın cesedi bulunur. Katil, kadının kimliğinin ortaya çıkmaması için uğraşmıştır.Maura Isles ve dedektif Jane Rizzoli birbirine bağlı olduğu anlaşılan bu cinayetleri araştırıp beklenmedik bir katilin peşine düşerken kişisel yaşamlarında da önemli kararlar almak zorunda kalırlar...",
+			"category":"Polisiye/Cinayet",
+			"imgName":"0001759040001-1.jpg"
+		},
+		{
+			"name": "Mars Yıllıkları",
+			"author": "Ray Bradbury",
+			"detail": "İnsanlık atom savaşlarının gölgesindeki, sorunlarla boğuşan Dünya’yı terk etmek için Mars’ta koloni kurmaya karar verir. İlk roketler umut dolu kızıl gezegene iniş yaptıklarında yolcular hiç beklemedikleri sorunlarla karşı karşıya kalır. Mars’ta yalnız değillerdir. Marslılar şekil değiştiren, zihin okuyan, belirli bir gelişmişlik seviyesine erişmiş canlılardır ve gezegene gelen bu istenmeyen ziyaretçiler için orada yeni bir hayat kurmak hiç kolay olmayacaktır. Bradbury’nin yer yer ürkütücü yer yer dramatik anlatımı da burada sahne alır. Irkçılık ve hümanizm gibi fikirler Mars’ta kendine yer bulur. Yazar, âdeta tarihle ve insanlıkla yüzleşir.",
+			"category": "Bilim Kurgu",
+			"imgName": "0001775018001-1.jpg"
+		},
+		{
+			"name": "Yaratıcı Tür-Fikirler Dünyayı Nasıl Yeniden Yaratıyor",
+			"author": "David Eagleman, Anthony Brandt",
+			"detail": "İnsan dünyanın yeni versiyonlarını yaratıyor, hem de her gün. Yenilik üretme yeteneğimizin canlılar arasında eşi benzeri yok. İnekler koreografi hazırlamıyor, sincaplar ağaç tepelerine ulaşmak için asansör inşa etmiyor, timsahlar sürat motorları tasarlamıyorlar. Bizler ise, binlerce yıl önce meydana gelmiş bir evrimsel ince ayar sayesinde, deneyimlerimizi özümseyip onlardan “şöyle olsa ne olur”lar türetebiliyoruz.",
+			"category": "Bilim",
+			"imgName": "0001808114001-1.jpg"
+		},
+		{
+			"name": "Kuşların Felsefesi",
+			"author": "Elise Rousseau",
+			"detail": "Ömrünü kuşları izleyerek geçirmiş Fransız kuş bilimci Philippe J. Dubois ve filozof Élise Rousseau, kuşların yaşamlarından ilham almış yirmi iki küçük hayat dersi ile bizi –evrimin tepesinde olduğunu düşünerek kendini “dünyanın efendisi” ilan eden bizi!– önce kendimiz üzerine düşünmeye, sonra da kanatlarımızı açmaya davet ediyor.",
+			"category": "Felsefe",
+			"imgName": "0001897293001-1.jpg"
+		},
+		{
+			"name": "Amok Koşucusu",
+			"author": "Stefan Zweig",
+			"detail": "Amok Koşucusu doktor olarak yardıma ihtiyaç duyan bir insana el uzatmanın vicdani yükümlülüğüyle kendi karmaşık duyguları arasında sıkışıp kalan bir adamın hikâyesidir. Hollanda Doğu Hint Adaları'nda görev yapan bir doktor, dara düşüp kendisine başvuran çok zengin bir kadının \"yardım\" talebini geri çevirir. Zira kadının mağrur ve hesapçı tavrı karşısında büyük bir öfkeye kapılmış, gururuna yenik düşmüştür. Ancak söz konusu olan insan hayatıdır. Kısa süre içinde pişmanlığın pençesine düşer. Kadına yardım etmeyi saplantı haline getiren doktor, Malezya halkında rastlanan bir nevi öldürücü delilik olan hummanın, amokun etkisi altına girer.",
+			"category": "Roman",
+			"imgName": "0000000726637-1.jpg"
+		},
+		{
+			"name": "22/11/63",
+			"author": "Stephen King",
+			"detail": "22 Kasım 1963'te, Dallas'ta üç el silah sesi duyuldu, Başkan Kennedy öldü ve dünya tarihi değişti. Peki, bütün bunları değiştirme şansınız olsaydı? Kendi kuşağının sosyal, kültürel ve politik meselelerini sindirmiş bir yazar olan Stephen King, bu mükemmel kurgulanmış gövde gösterisinde okuyucuları geçmişe uzanan inanılmaz bir yolculuğa çıkarıyor.",
+			"category": "Gerilim/Korku",
+			"imgName": "0000000400741-1.jpg"
+		},
+		{
+			"name": "Melekler ve Şeytanlar",
+			"author": "Dan Brown",
+			"detail": "Harvard Üniversitesi Simgebilim Profesörü Robert Langdon efsanevi gizli örgüt Illuminati'nin -Galileo zamanından beri Katolik Kilisesi'nin bağnaz inançlarını lanetleyerek bilimin yararlarını yücelten- hala faaliyette olup cinayetler işlediğini öğrenince şok geçirir. Parlak bir fizikçi olan Leonarda Vetra cinayete kurban gitmiştir. Tek gözü oyulmuş ve göğsü örgütün sembolüyle dağlanmıştır. Bilim adamının son buluşu güçlü ve çok tehlikeli enerji kaynağı karşımadde çalınmış ve yeni Papa seçiminin gerçekleşeceği gün Vatikan Şehri'nin altına saklanmıştır. Langdon, Vetra'nın meslektaşı ve aynı zamanda kızı olan Vittoria ile medeniyeti yok olmaktan kurtarmak amacıyla Roma sokaklarında, kiliselerde ve katakomplarda soluk soluğa koşuşturarak 400 yıllık izi sürerek Illuminati'nin izini bulmaya çalışırlar.",
+			"category": "Polisiye/Cinayet",
+			"imgName": "0000000151552-1.jpg"
+		},
+		{
+			"name": "Gece Yarısı Güneşi",
+			"author": "Stephenie Meyer",
+			"detail": "Gece Yarısı Güneşi, Edward ile Bella’nın kendi hayatlarında ve vampirler dünyasında dengeleri alt üst eden büyük aşklarını, en başından ve Edward’ın gözünden bir kez daha anlatıyor. Kitap, Edward’ın olacakları bildiği halde Bella’ya nasıl aşık olduğunu ve bu aşkın Edward’ın hayatını nasıl kökünden değiştirdiğini detaylıca aktararak boşlukları dolduruyor. Bununla birlikte bu genç vampirin tüm geçmişine ışık tutan Gece Yarısı Güneşi, sevenlerinin Edward’ı daha yakından tanımasına da yardımcı oluyor.",
+			"category": "Gerilim/Korku",
+			"imgName": "0001886582001-1.jpg"
+		},
+		{
+			"name": "Bilinmeyen Bir Kadının Mektubu",
+			"author": "Stefan Zweig",
+			"detail": "Stefan Zweig Bilinmeyen Bir Kadının Mektubu (Brief einer Unbekannten) adlı uzun öyküsünü 1920'li yılların ilk yarısında kaleme aldı. Bilinmeyen Bir Kadının Mektubu'nun kadın kahramanını sadece uzun bir mektubun yazarı olarak tanıyoruz. Kadının hayatı boyunca sevmiş olduğu erkek için kaleme aldığı bu mektubun \"gönderen\"inin adı yoktur. Mektubun başında tek bir hitap vardır: \"Sana, beni asla tanımamış olan sana\". Kadın büyük tutkusunu hep bir \"bilinmeyen\" olarak, yani tek başına yaşamaya razıdır, bu aşk öyküsünde \"taraflar\" değil, sadece tek bir \"taraf\" vardır. Böylesine, gerçek anlamda aşk denilebilir mi? Zweig okurunu, bir kez daha, insan psikolojisinde eşine pek rastlanmayan bir yolculuğa davet ediyor. Bu yeni yolculuğun sonunda \"mutlak aşk\" kavramının şimdiye kadar bilinmeyen kıyılarına varmayı amaçlamış olması da bir ihtimal!",
+			"category": "Roman",
+			"imgName": "0000000411059-1.jpg"
+		},
+		{
+			"name": "Fahrenheit 451",
+			"author": "Ray Bradbury",
+			"detail": "Ray Bradbury’nin karanlık bir geleceği konu aldığı Fahrenheit 451 romanı, bilim kurgu ögelerini baskı rejimi ve robotlaşmış bir toplumla harmanlıyor. Kitabın olay örgüsü, itfaiyecilerin yangın söndürmek yerine kitap yakmakla görevlendirildiği totaliter bir düzen etrafında şekilleniyor. Roman, adını ise kitapların yanma derecesi olan ısı ölçüsünden alıyor.",
+			"category": "Bilim Kurgu",
+			"imgName": "0001750151001-1.jpg"
+		},
+		{
+			"name": "Olağanüstü Bir Gece",
+			"author": "Stefan Zweig",
+			"detail": "Olağanüstü Bir Gece, seçkin bir burjuva olarak rahat ve tasasız varoluşunu sürdürürken giderek duyarsızlaşan bir adamın hayatındaki dönüştürücü deneyimin hikâyesidir. Sıradan bir Pazar gününü at yarışlarında geçirirken, belki de ilk kez burjuva ahlakından saparak \"suç\" işler. Böylece yeniden \"hissetmeye\" başladığını, kötücül ve ateşli hazları olan gerçek bir insan olduğunu fark eder. İçindeki haz dolu esrime, aynı günün akşamında onu gece âleminin son atıklarının arasına, \"hayatın en dibindeki lağımlara\" sürükleyecek, varış noktası ise ruhani bir uyanış olacaktır.",
+			"category": "Roman",
+			"imgName": "0000000671636-1.jpg"
+		},
+		{
+			"name": "Ben Robot",
+			"author": "Isaac Asimov",
+			"detail": "Ben Robot, okurlarına Isaac Asimov’un kalemiyle kurduğu, alışılagelmişin dışında yepyeni bir dünya sunuyor. Kitaptaki 10 robot hikayesinin ortak noktası ise Dr. Susan Calvin isimli emekli bir robot psikoloğu. Tüm bu hikayeler, Calvin’in görevi süresince karşılaştığı robotlarla olan anılarından derleniyor. Bununla birlikte Dr. Calvin yazar tarafından, robotların dünyasına en hakim kişi olmasının yanı sıra söz konusu dünyanın en saygı duyulan karakteri olarak tanıtılıyor.",
+			"category": "Bilim Kurgu",
+			"imgName": "0000000720264-1.jpg"
+		},
+		{
+			"name": "Dostoyevski-Yalnızlığın Keşfi",
+			"author": "Stefan Zweig",
+			"detail": "Stefan Zweig, Yalnızlığın Keşfi’nde 19. yüzyılın en büyük yazarlarından biri olarak gördüğü Dostoyevski’yi müthiş bir saygıyla anlatır. Zweig, hayatı acılar içinde geçen büyük yazarın benliğinin her bir zerresine ulaşmaya, onu anlamaya ve okurlara ısrarla hatırlatmaya çabalar. Dostoyevski bir elinde mumla ruhun karanlık dehlizlerinde dolaşırken, bütün amacı o dehlizlerin sonundaki parlak ışığa ulaşmaktır. Bir labirent varsa çıkış da vardır ve kazanan, hayat olacaktır.",
+			"category": "Biyografi",
+			"imgName": "0001806060001-1.jpg"
+		},
+		{
+			"name": "Cehennem",
+			"author": "Dan Brown",
+			"detail": " Dünyanın en çok satan romanlarının yazarı Dan Brown, Cehennem ile okurlarını bu kez de İstanbul sokaklarında bir gezintiye çıkarıyor. Romanlarında ağırlıklı olarak tarihi mekanları ele alan Brown, dünyanın en büyük gizemlerini usta kurgularla bir araya getiriyor. Cehennem romanında ise yazar, tüm insanlığı tehdit eden tehlikeli bir adamın İstanbul üzerinden planladığı korkunç bir katliam tasarısını işliyor. Bu kitabı okurken, her sayfasında çok şaşıracağınız bir dolu serüvenle karşılaşacaksınız!",
+			"category": "Polisiye/Cinayet",
+			"imgName": "0000000442778-1.jpg"
+		},
+		{
+			"name": "Amazon",
+			"author": "John Rossman",
+			"detail": " Başlangıçta yalnızca küçük bir çevrimiçi kitapçı ve çok daha fazlasını yapmayı hayal eden ileri görüşlü kurucusu  Jeff Bezos vardı. Artık Amazon.com milyarlarca ürünü müşterinin parmaklarının ucuna getirerek, kişisel okuma cihazında devrim yaratarak ve endüstrileri birbiri ardına değiştirip geliştirerek çevrimiçi alışveriş dünyasını ele geçirdi.",
+			"category": "Ekonomi/İşletme",
+			"imgName": "0001765480001-1.jpg"
+		},
+		{
+			"name": "Ted Gibi Konuş",
+			"author": "Carmine Gallo",
+			"detail": "Teknoloji, Eğlence ve Dizayn sözcüklerinin baş harflerinden adını alan TED konferanslarının gördüğü ilgi bütün dünyada artarak sürüyor. \"Paylaşmaya değer fikirler\" sloganıyla anılan, insanları bu denli etkileyen 18 dakikalık TED konuşmaları internette 4 milyardan fazla izlendi. Peki niçin? Bu kadar çok insanı bu kadar etkileyen konuşmaların sırrı ne? Etkili, ikna edici, ilham veren bir sunum yapmak için en çok neye gereksinim duyarız? Yetenek?",
+			"category": "Kişisel Gelişim",
+			"imgName": "0000000666166-1.jpg"
+		},
+		{
+			"name": "Google Nasıl Yönetiliyor?",
+			"author": "Jonathan Rosenberg, Eric Schmidt",
+			"detail": "Dünya ekonomisinin belkemiği haline gelen, internet trafiğinin %82'sini yöneten bir şirket düşünün. 2013 yılında 53 milyar dolar ciro yaparken, merkez kampüsün bahçesini düzenlemek için çim biçme makinesi almak yerine 200 keçiyi işe alan bir şirket… Bir yandan rengarenk ofisleri ile üretkenliği tepe noktasına çıkarmayı hedeflerken diğer yandan robot teknolojisi ve mobil cihazlar üzerinden dünyayı değiştirmeye aday bir şirket…",
+			"category": "Ekonomi/İşletme",
+			"imgName": "0000000664339-1.jpg"
+		},
+		{
+			"name": "Vazgeçebilmek",
+			"author": "Guy Finley",
+			"detail": "Tüm dünyada çok satan kişisel gelişim kitaplarından biri olan Vazgeçebilmek, Guy Finley’nin ilk kitabı olmasına rağmen usta anlatımıyla hayranlık uyandırıyor. İnsanların hayatlarında vazgeçme noktasına gelip sonrasında nasıl ve neden geri döndükleri üzerine yazılmış olan kitap, vazgeçmenin aslında oldukça kolay bir eylem olduğunu gözler önüne seriyor. Öte yandan yer yer gerçek hayattan öykülere de değinen kitap, sunduğu örnekler sayesinde aynı zamanda güvenilir bir kılavuz niteliği taşıyor.",
+			"category": "Kişisel Gelişim",
+			"imgName": "0001691198001-1.jpg"
+		},
+		{
+			"name": "Elon Musk-Tesla SpaceX ve Muhteşem Geleceğin Peşinde",
+			"author": "Ashlee Vance",
+			"detail": "Elon Musk, X.com ve PayPal’in kurucularındandır ve sonraki dönemde Tesla ile sadece elektrikle giden 600 km menzilli ve 100km/sa hıza sadece 2,3 saniyede çıkan muhteşem otomobiller üretmiştir. SpaceX ile uzay taşımacılığının maliyetlerini çok büyük oranda düşürerek dünya devlerine meydan okumuş ve yakın gelecekte Mars’a insan yollayabilecek en muhtemel şirketi yaratmıştır. Ayrıca ABD’deki en büyük güneş enerjisi şirketi SolarCity’nin en büyük ortağı ve başkanıdır.",
+			"category": "Biyografi",
+			"imgName": "0000000686987-1.jpg"
+		},
+		{
+			"name": "Tongue Fu - Sözlü Dövüş Sanatı",
+			"author": "Sam Horn",
+			"detail": "İnsanlararası iletişimde husumeti, anlaşmazlıkları ve yanlış anlamaları uyuma dönüştürmek, Sözlü çatışmalardan, ağız kavgalarından ve sinir patlamalarından kaçınmak, Sözünüzü, insanlarla huzurlu bir birlikteliğin aracı haline getirmek istemez misiniz? Sözlü dövüş sanatı Tongue Fu size bütün bunların yolunu gösteriyor.",
+			"category": "Ekonomi/İşletme",
+			"imgName": "0000000066647-1.jpg"
+		},
+		{
+			"name": "Prenses Diana'nın Kayıp Sırları - Diana",
+			"author": "Andrew Morton",
+			"detail": "Kısa ve acılarla dolu bir hayat sürmüş olsa da Diana, kraliyet ailesi, kraliyet sistemi ve halk üzerinde silinmez bir iz bıraktı; halkın ve gönüllerin prensesi oldu. Ölümünün üzerinden ne kadar zaman geçerse geçsin, Galler Prensesi Diana, yalnızca anılarımızda değil, aynı zamanda Prens William ve Prens Harry’nin hayatlarında, yaptıkları ve yapacakları işlerde yaşamaya devam edecek.",
+			"category": "Biyografi",
+			"imgName": "0001877395001-1.jpg"
+		},
+		{
+			"name": "Kayıp Sembol",
+			"author": "Dan Brown",
+			"detail": "Harvard Simgebilim Profesörü Robert Langdon, Kongre Binasında konferans vermesi için yakın bir arkadaşından davet alır. Ancak, Washington'a varır varmaz oldukça garip bir durumla karşı karşıya kalan profesör, kendini korkunç bir oyunun ortasında bulur. Kongre Binas'na bırakılmış olan bir sembolün -yakın arkadaşı Peter Solomon'ın kesik eli- varlığını haber veren bir telefon, Langdon'ı hiç de yabancısı olmadığı bir dünyaya davet etmektedir. Antikçağlarda kullanılan bu sembolik çağrı, daveti alan kişiyi ezoterik bilgeliğin hüküm sürdüğü, çok eskilerde kalmış kayıp bir dünyaya sürükleyecektir. ",
+			"category": "Polisiye/Cinayet",
+			"imgName": "0000000317832-1.jpg"
+		},
+		{
+			"name": "Steve Jobs",
+			"author": "Walter Isaacson",
+			"detail": "Teknoloji devi Apple’ın kuruluş hikayesini öğrenmeye hazır mısınız? Steve Jobs’ın baştan sona hayatının anlatıldığı bu eser, usta yazar Walter Isaacson tarafından kaleme alınıyor. Bu zamana değin Benjamin Franklin ve Albert Einstein gibi ustaların biyografilerini okuyucu ile buluşturan yazar, bu defa teknoloji devinin yaratıcısı Steve Jobs’ı tüm bilinmeyen yönleri ile ele alıyor. Nasıl bir hayat yaşadığı, karakteri, Apple’ı kurmaya ne zaman ve nasıl karar verdiği ve hastalıkla yüzleşme süreçlerinin anlatıldığı bu kitap ile Steve Jobs’ın hayatında keşfe çıkmaya hazır olun!",
+			"category": "Biyografi",
+			"imgName": "0000000375241-1.jpg"
+		},
+		{
+			"name": "1984",
+			"author": "George Orwell",
+			"detail": "Distopya olarak nitelendirilen George Orwell’ın bu şahane eseri, geçmişin aslında ne kadar da gelecekten izler taşıdığını ortaya koyuyor. 1948’de kaleme aldığı bu eser ile Orwell, günümüz modern dünyasına bir protesto bırakıyor. Her ne kadar kitabında 1984 yılını tasvir etse de kitabın derinliklerinde bugünden izler de bulabilmeniz mümkün. Bu durumda elbette ki George Orwell’ın ileri görüşlülüğü etkili.",
+			"category": "Bilim Kurgu",
+			"imgName": "0000000064038-1.jpg"
+		},
+		{
+			"name": "Ustalık Gerektiren Kafaya Takmama Sanatı",
+			"author": "Mark Manson",
+			"detail": "Büyük Güç Büyük Sorumluluklar Getirir.” Doğru. Ama bu sözün daha iyi bir akış açısı var, ve gerçekten derin bir bakış açısı. Tek yapmanız gereken sözlerin yerini değiştirmek: “Büyük sorumluluklar büyük güç getirir.” “Her şeyi iyi tarafından görmek” gibi bir şey iyi gibi görünse de, gerçek şu ki hayat bazen berbattır ve yapabileceğiniz en sağlıklı şey de bunu kabul etmektir. Negatif duyguları inkâr etmek daha derin ve daha uzun ömürlü negatif duygulara ve duygusal bozukluğa neden olur. Sürekli pozitif olmak hayatın sorunları için geçerli bir çözüm değil, bir inkâr biçimidir.",
+			"category": "Kişisel Gelişim",
+			"imgName": "0001698804001-1.jpg"
+		},
+		{
+			"name": "Yaratma Cesareti",
+			"author": "Rollo May",
+			"detail": "May, psikoloji, psikoterapi, felsefe ve sanatla yakın ilişkisinden ötürü, yaratıcılık konusunu ilginç bir perspektiften inceliyor. Tüm varoluşçular gibi o da kaygı olgusuna büyük önem vererek, değişimin kaygının içine gömülerek varılacak bir yaratıcılık düzeyinde gerçekleşeceğini vurguluyor. Geçiş dönemi psikolojisinin tüm olumsuzluğunu, yaratıcılığın zorunluluğu adına kutlayan May, \"yeni olan\"ın her yerde fışkırdığı bir dünyada, insanın bilindışı kaynaklara güvenmesi gerektiğini savunuyor. ",
+			"category": "Felsefe",
+			"imgName": "0000000068248-1.jpg"
+		},
+		{
+			"name": "Bilinçaltının Gücü-Zihinsel ve Bedensel İyileşme",
+			"author": "Joseph Murphy",
+			"detail": "İrlanda doğumlu Amerikalı yazar Joseph Murphy, ilahi bilimler alanındaki engin birikimi ile okurlarını bilinçaltının gücünü keşfetmeye çağırıyor. Yazarın ilk olarak 1963 yılında yayımladığı Bilinçaltının Gücü kitabı, insan zihnine dair en çok merak edilen soruları yanıtlıyor. Oldukça akıcı bir dille yazılmış olan kitap, kişilerin bilinçaltını doğru şekilde kullanarak maddi ve manevi anlamda neler başarabileceğini şaşırtıcı örneklerle ortaya koyuyor. Bu eşsiz rehber, sunduğu müthiş bilgilerle sizin de hayatınıza yeni bir yön vermenizi ve hayallerini gerçekleştirmenizi kolaylaştıracak!",
+			"category": "Kişisel Gelişim",
+			"imgName": "0001831154001-1.jpg"
+		},
+		{
+			"name": "Toplum Sözleşmesi",
+			"author": "Jean - Jacques Rousseau",
+			"detail": "Toplum Sözleşmesi’yse (1762) yayımlandığı günden bugüne toplumların birarada yaşayışlarına ilişkin en temel düşünce yapıtlarından biri olma özelliğini sürdürmektedir.",
+			"category": "Felsefe",
+			"imgName": "0000000223943-1.jpg"
+		},
+		{
+			"name": "O",
+			"author": "Stephen King",
+			"detail": "O, küçük bir kasabada geçen sıra dışı olayları konu ediniyor. ABD’nin Maine eyaletinde yer alan Derry adlı bu kasaba, kanalizasyon mazgallarının altında dev ve korkunç bir yaratığı barındırıyor. Kasabalıların kabusu olan bu yaratık, çocukluklarını çok yakın arkadaş grubu olarak Derry’de geçiren yedi insanın hayatında da derin izler bırakıyor. Kitapta olaylar, vaktiyle kendilerine “Kaybedenler Kulübü” adını veren bu kişilerin, çocukluk ve yetişkinlik dönemleri olmak üzere iki zamana ayrılıyor.",
+			"category": "Gerilim/Korku",
+			"imgName": "0000000059516-1.jpg"
+		}
+
+	]
+}

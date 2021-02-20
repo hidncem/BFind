@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ctis487Team3Project</string>
+    <string name="appHeader">BFind</string>
+    <string name="recommend">Kitap Öner</string>
+    <string name="favoriteList">Favori Listem</string>
+    <string name="secondHeader">Lütfen Kitap Önerisi için Kategori Seçiniz</string>
+    <string name="favorites">Favoriler</string>
+    <string name="books">Kitaplar</string>
+    <string name="search">Ara</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chance">Kendimi Şanslı Hissediyorum</string>
+</resources>
